@@ -2,11 +2,7 @@
 title: "30535 Skills Problem Set 1"
 author: "Peter Ganong and Miguel Valenzuela"
 date: "2022-03-27"
-output:
-  html_document:
-    df_print: paged
-  pdf_document:
-    number_sections: yes
+output: md_document
 urlcolor: blue
 ---
 
